@@ -16,7 +16,7 @@ Vanilla JavaScript pig game.
 
 ### Screenshot
 
-![](./iamges/screenshot.PNG)
+![](./images/screenshot.PNG)
 
 ### Links
 
