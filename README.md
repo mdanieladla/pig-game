@@ -1,4 +1,4 @@
-# Guess my number
+# Pig game
 
 Vanilla JavaScript pig game.
 
@@ -16,7 +16,7 @@ Vanilla JavaScript pig game.
 
 ### Screenshot
 
-![](./screenshot.PNG)
+![](./iamges/screenshot.PNG)
 
 ### Links
 
